@@ -1,0 +1,36 @@
+.contenedor{
+    background-color: white;
+    display: inline-flex;
+    flex-direction: column;
+    border: black solid 5px;
+    width: 60%;
+    align-items: flex-end;
+}
+.item1{
+    color: beige;
+    background-color: red;
+    width: fit-content;
+    text-align: center;
+    padding: 100px;
+    position: relative;
+    font-size: 25px;
+    font-weight: 100px;
+}
+.item2{
+    color: beige;
+    background-color: blue;
+    width: fit-content;
+    text-align: center;
+    padding: 100px;
+    font-size: 25px;
+    font-weight: 100px;
+}
+.item3{
+    color: beige;
+    background-color: green;
+    width: fit-content;
+    text-align: center;
+    padding: 100px;
+    font-size: 25px;
+    font-weight: 100px;
+}
